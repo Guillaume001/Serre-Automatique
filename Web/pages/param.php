@@ -111,7 +111,7 @@ file_put_contents('../py/reboot.txt', time());
 					<thead>
 					  <tr>
 						<th>Nom</th>
-						<th>Nombre d'erreur</th>
+						<th>Nombre</th>
 						<th>Action</th>
 					  </tr>
 					</thead>
