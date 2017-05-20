@@ -2,7 +2,7 @@
 
 <p align="center">
 Projet ISN pour l'épreuve du BAC 2017<br>
-<img height="400px" src="https://github.com/Guillaume001/Serre-Automatique/blob/master/Dossier/Annexe/Serre%20v1.png">
+<img height="400px" src="https://github.com/Guillaume001/Serre-Automatique/blob/master/Dossier/Serre%20v1.png">
 </p>
 
 ## Objectifs
