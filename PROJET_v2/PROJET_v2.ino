@@ -25,7 +25,7 @@
 #define pinPoto A1
 #define pinLum A2
 #define pinHum A3
-#define pinTemp A0
+#define pinTemp A4
 //FIN "Déclaration des pins"
 
 #define stateBut digitalRead(pinBut) //Pour des facilités de lecture stateBut est remplacé par la fonction à la compilation
