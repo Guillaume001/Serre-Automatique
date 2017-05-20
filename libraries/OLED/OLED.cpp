@@ -75,11 +75,6 @@ void OLED::affichage(float* data) //Affiche la totalité de l'écran OLED
 	param(data); //Affiche toutes les valeurs des capteurs sur l'écran OLED
 }
 
-void OLED::efface() //Procédure efface écran
-{
-	SeeedGrayOled.clearDisplay(); //Clear de l'OLED
-}
-
 void OLED::begin() //Procédure d'initialisation
 {
 	SeeedGrayOled.init(); //Initialisation de l'OLED

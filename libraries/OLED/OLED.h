@@ -19,7 +19,6 @@ private:
 	void param(float* data); //Affiche toutes les valeurs des capteurs sur l'écran OLED
 public:
 	void affichage(float* data); //Affiche la totalité de l'écran OLED
-	void efface(); //Efface OLED
 	void begin(); //Procédure d'initialisation
 };
 
