@@ -36,10 +36,6 @@ Projet ISN pour l'épreuve du BAC 2017<br>
 - Capteur d'humidité (Analogique)
 - Capteur de température et humidité (I2C)
 
-## Documentation
-
-Pour en savoir plus consulter notre wiki dans la barre de navigation en haut.
-
 ## Developpeurs
 - Paul OLIVA
 - Guillaume COURS
